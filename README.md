@@ -10,7 +10,7 @@ TIPS:This page is parsed with “BitBucket HTML Preview”；So the access speed
 
 Here is the translation for Chinese friends：
 
-因为这个网页是使用“BitBucket HTML Preview”生成的可访问的Html链接，并且文件是挂在Github上的，所以访问起来需要一点时间，打开页面的时候可能CSS样式会出不来，请稍等几秒钟即可，它会自动加载出来的；如若不行，请刷新重试
+_因为这个网页是使用“BitBucket HTML Preview”生成的可访问的Html链接，并且文件是挂在Github上的，所以访问起来需要一点时间，打开页面的时候可能CSS样式会出不来，请稍等几秒钟即可，它会自动加载出来的；如若不行，请刷新重试_
 
 
 
