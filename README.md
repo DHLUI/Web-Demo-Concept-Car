@@ -2,10 +2,14 @@
 
 ![pic](https://raw.githubusercontent.com/DHLUI/Web-Demo-Concept-Car/master/shot_car03.png)
 
-This is a website demo for the display of industrial design. Below is the Home page of a the website.
+This is a website demo for the display of industrial design. Below is the Home page of the website.
 
-### [View the demo here →](http://htmlpreview.github.io/?https://github.com/DHLUI/Web_demo_Concept_Car/blob/master/index.html)
+## [View the demo here →](http://htmlpreview.github.io/?https://github.com/DHLUI/Web_demo_Concept_Car/blob/master/index.html)
 
+TIPS:This page is parsed with “BitBucket HTML Preview”；So the access speed is a little bit  slow . You need wait for few seconds.
+
+Here is the translation for Chinese friends：
+因为这个网页是使用“BitBucket HTML Preview”生成的可访问的Html链接，并且文件是挂在Github上的，所以访问起来需要一点时间，打开页面的时候可能CSS样式会出不来，请稍等几秒钟即可，它会自动加载出来的；如若不行，请刷新重试
 
 
 
