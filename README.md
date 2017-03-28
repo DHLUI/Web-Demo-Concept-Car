@@ -1,6 +1,6 @@
 # Web_Demo_Concept_Car
 
-![pic](https://raw.githubusercontent.com/DHLUI/Web-Demo-Concept-Car/master/shot_car02.png)
+![pic](https://raw.githubusercontent.com/DHLUI/Web-Demo-Concept-Car/master/shot_car03.png)
 
 This is a website demo for the display of industrial design. Below is the Home page of a the website.
 
